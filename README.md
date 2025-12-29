@@ -1,4 +1,3 @@
-# Depression-Classificstion-using-CNN
 # 🧠 Depression Prediction Using Artificial Neural Network (ANN)
 
 ---
